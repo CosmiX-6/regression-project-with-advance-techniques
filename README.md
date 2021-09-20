@@ -6,7 +6,7 @@ In this Regression project we are going to using housing price dataset.
 The target of this project is to build a housing price prediction machine learning regression model, before moving to data modelling we will analyze data and find out the feature that will be useful for predicting houseing price.
 
 _(Machine Learning Notebook on housing price prediction will be avaiable soon!)_ <br>
-In this repository we have covered various task of Data Engineering, Data Analysis and Machine Learning Modelling.
+In this repository we have covered various task of **Data Wrangling**, **Data Analysis**, **Data Visualization** and **Data Modelling**.
 
 #### Sneak Peek
 
