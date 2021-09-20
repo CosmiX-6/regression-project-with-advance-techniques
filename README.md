@@ -14,4 +14,4 @@ In this repository we have covered various task of Data Engineering, Data Analys
 
 ![Age vs Price](https://raw.githubusercontent.com/CosmiX-6/regression-project-with-advance-techniques/master/output/graphs/03.png "Age vs Price")
 
-![Correlation Heatmap](https://raw.githubusercontent.com/CosmiX-6/regression-project-with-advance-techniques/master/output/graphs/03.png "Correlation Heatmap")
+![Correlation Heatmap](https://raw.githubusercontent.com/CosmiX-6/regression-project-with-advance-techniques/master/output/graphs/05.png "Correlation Heatmap")
